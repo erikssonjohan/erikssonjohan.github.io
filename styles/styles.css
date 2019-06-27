@@ -26,3 +26,22 @@ h1{
 small { 
     font-size: small;
 }
+
+li{
+    list-style: none;
+    display: inline-block;
+    margin-right:20px;
+    
+}
+ul{
+    padding: 0px;
+    padding-top: 10px;
+}
+a {
+    text-decoration: none;
+    font-size: 32px;
+    color: black;
+  }
+  a:hover {
+    opacity: 0.7;
+  }
