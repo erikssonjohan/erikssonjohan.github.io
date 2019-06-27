@@ -1,0 +1,28 @@
+body{
+    background: #F9DC24;
+}
+h1{
+    font-weight: 800;
+    color: #262626;
+     font-size: 4rem;
+    position: relative;
+    font-family: Roboto, Arial, sans-serif;
+    vertical-align: baseline;
+    word-spacing: -5px;
+    letter-spacing: -1px;
+    line-height: 55px;
+}
+#project{
+    font-weight: 800;
+    color: #262626;
+     font-size: 3rem;
+    position: relative;
+    font-family: Roboto, Arial, sans-serif;
+    text-decoration:none;
+    word-spacing: -10px;
+    
+    
+}
+small { 
+    font-size: small;
+}
